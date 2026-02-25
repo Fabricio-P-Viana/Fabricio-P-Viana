@@ -76,7 +76,7 @@ Sou um desenvolvedor apaixonado por tecnologia com foco em criar soluções web 
 
 🎯 **Objetivo Profissional:** Busco aprofundar meus conhecimentos em desenvolvimento full stack, me especializando em tecnologias modernas e boas práticas de desenvolvimento. Estou sempre em busca de novos desafios que me permitam crescer como profissional.
 
-💼 **Experiência:** Atualmente com 1 ano de experiência como Desenvolvedor Full Stack Júnior, contribuindo com soluções web e participando ativamente do desenvolvimento de projetos empresariais.
+💼 **Experiência:** Atualmente com 2 anos de experiência como Desenvolvedor Full Stack, contribuindo com soluções web e participando ativamente do desenvolvimento de projetos empresariais.
 
 🎨 **Hobbies:**
 - Criar artes visuais no Canva com mensagens inspiradoras
